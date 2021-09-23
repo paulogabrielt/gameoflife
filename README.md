@@ -14,4 +14,10 @@ Observações: o executável foi aberto em 3 computadores diferentes que nunca f
 
 Comecei a estudar python há 1 mês (25/08/2021) através da formação em python da Alura. Ainda não havia tido contato com bibliotecas visuais, logo realizei uma busca por algumas soluções do jogo para me inspirar, e a que mais me chamou atenção foi a disponibilizada no link: https://tech-pt.netlify.app/articles/pt532732/index.html. Modifiquei toda a estrutura do código, retirando algumas linhas inúteis, implementando uma lógica com probabilidade para gerar um lexicon inicial com maior variedade, e modificando a lógica utilizada para verificar as regras do jogo.
 
+Melhorias futuras:
+  1) Diminuir a quantidade de "Ifs" utilizados;
+  2) Diminuir a complexidade do código -> atualmente N^2;
+  3) Aumentar a matriz dinamicamente quando alguma célula viva ultrapassar as extremidades;
+  4) Permitir que o usuário escolha o lexicon inicial utilizando o mouse para selecionar as células vivas.
+
 Qualquer dúvidas estou à disposição através do e-mail: paulogabriel.teixeira@gmail.com
